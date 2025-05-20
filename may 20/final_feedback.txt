@@ -1,0 +1,11 @@
+Linter Feedback:
+************* Module Command line
+Command line:1:0: W0012: Unknown option value for '--enable', expected a valid pylint message and got 'errors' (unknown-option-value)
+No files to lint: exiting.
+
+
+Execution Output:
+  File "/home/minnu/Desktop/week 3/temp_code.py", line 1
+    ```python
+    ^
+SyntaxError: invalid syntax
